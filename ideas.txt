@@ -1,3 +1,11 @@
 how do children learn the different functionality of reduplication?
 do they learn in the order verb -> verb redup -> adj -> adj redup or verb -> adj
 -> redup?
+(related) if children learn reduplication as its own concept all at once, when? and in particular, when in relation to other similar parts of syntax (e.g. affixes)?
+
+are there languages where reduplication plays a specific role that a different type of thing does in another language/English? (e.g. functions similarly to a suffix) in that case, do children in both langauges learn their respective functionality at approximately the same age, or at the age more similar to when they learn other kinds of suffixes/reduplication?
+
+say that a certain part of speech has more than one possible meaning for reduplication. (e.g. the verb could imply a long duration, or doing it simultaneously with another action). when children learn reduplication for that part of speech, do they simultaneously acquire mastery of the different meanings? does one meaning come before another, or do they confuse them?
+if one part of speech has more possible meanings for reduplication than another, do children acquire the ability to reduplicate that part of speech earlier?
+
+(taken from the end of O&S 2017) when learning words with reduplication (e.g. mama), do infants learn them as one word with the same syllable twice, or a repetition of a word of half the length? (could see if, after learning a novel reduplicated word, they also appear to have learned the shorter half-version of the word)
