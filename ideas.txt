@@ -9,3 +9,6 @@ say that a certain part of speech has more than one possible meaning for redupli
 if one part of speech has more possible meanings for reduplication than another, do children acquire the ability to reduplicate that part of speech earlier?
 
 (taken from the end of O&S 2017) when learning words with reduplication (e.g. mama), do infants learn them as one word with the same syllable twice, or a repetition of a word of half the length? (could see if, after learning a novel reduplicated word, they also appear to have learned the shorter half-version of the word)
+
+
+Conclusion: is reduplication its own thing, or is it specific to aspects, broken down by functionality and parts of speech?
