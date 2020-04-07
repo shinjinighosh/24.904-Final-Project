@@ -16,7 +16,7 @@ by functionality and parts of speech? ft. Bangla/
 
 # Background Research
 
-##Summary of Ota & Skarabela (2017):
+## Summary of Ota & Skarabela (2017):
 This paper investigates the hypothesis that
 very early infant word learning and segmentation is aided by word and syllable
 reduplication (e.g. 'mama' or 'choo-choo'). Other studies showed some advantage
@@ -34,7 +34,7 @@ That implies that the infants had only learned the reduplicated word despite
 being exposed to both equally. The authors' conclusion is that reduplication
 does indeed improve infants' ability to perform word segmentation.
 
-##Summary of Bandyopadhyay and Chakraborty (2010):
+## Summary of Bandyopadhyay and Chakraborty (2010):
 A rule-based approach has been used in two phases,
 the general expression level and the structural and semantic classifications. Notably, the authors
 found eight classes of reduplication at the 'sense' level, implying that there are multiple
@@ -42,7 +42,7 @@ different functionalities of Bengali reduplication. Moreover, a rule-based syste
 average, over 90% precision, recall and f-score values, implying that it might also be
 possible for young children to apply similar segmentation using similar rules.
 
-##Summary of Senapati and Garain (2015):
+## Summary of Senapati and Garain (2015):
 The authors have studied
 the frequencies in which reduplicated words appear in Bengali. They
 have proposed an algorithm to identify the
