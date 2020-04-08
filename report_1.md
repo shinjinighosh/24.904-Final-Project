@@ -5,11 +5,12 @@
 
 
 # Topic
-/work exists on Bangla reduplication rules/
+There is existing work on reduplication rules, and classification of reduplication functionality, in Bangla. Separately, there is a small amount of work on child learning of reduplication, although mostly focused on reduplication in English (where it is not a very productive paradigm _is paradigm the right word there lol_. There is also work on child learning of other "paradigms" with different functionality and classification? We propose to bring together these areas of study and examine child classification abilities of reduplication in Bangla.
 
-/work exists on Bangla reduplication functionalities/classifications/
+Our experiment will focus on ...?
+- how children's classification becomes more adult with age? (seems too generic, not focused enough)
+- subideas: which areas of classification children are able to master first; whether mastery comes in sections (and if so how is it divided) or all at once
 
-/work exists on child learning of reduplication/
 
 /can do something about is reduplication its own thing, or is it specific to aspects, broken down
 by functionality and parts of speech? ft. Bangla/
@@ -23,7 +24,7 @@ This paper investigates the hypothesis that
 very early infant word learning and segmentation is aided by word and syllable
 reduplication (e.g. 'mama' or 'choo-choo'). Other studies showed some advantage
 for infants in learning reduplicative words, but none explicitly tested whether
-it improves infants' ability to perform word segmentation. The study exposed
+they improve infants' ability to perform word segmentation. The study exposed
 nine-month-old native English learners to two different spoken passages,
 each containing a novel four-letter CVCV word chosen to be similar to English words
 phonetically. One word was reduplicative (the first CV syllable was the same as
@@ -55,6 +56,29 @@ technique to enhance the accuracy of identifying such words in the corpus.
 A chapter on Bangla reduplication has provided 11 classifications of Bangla reduplications, based
 on various aspects. It would be interesting to look at how children truly classify it while
  learning.
+ 
+## Summary of Culbertson et al. (2019):
+Many languages with gender classification systems for nouns do not adhere perfectly to the rules
+of classification. As such, speakers rely on more than one type of clue in order to guess the gender
+of novel nouns. Culbertson et al. look at phonological clues (e.g. class 1 nouns tend to end in -a) and
+semantic ones (e.g. animate objects tend to be class 2) and find that children tend to rely more on
+phonological clues for classification, whereas adults change their reliance between the two types
+depending on which seems more salient. However, they also found that both adults and children tend to 
+rely more on whichever type of information was presented first. They put forward two theories, which 
+can potentially both be true, for why children rely more on phonological clues; the first is that
+because children are exposed to phonological information even before they know word meanings, that is 
+the information "presented first", which they over-rely on when classifying known words. The second is that, 
+since children also over-rely with novel words, they have some kind of a priori bias for phonological clues. 
+To explain this bias, they propose two potential explanations (not summarized here) based on other work.
+
+It would be interesting to do a similar investigation, but focused on the different types of reduplication
+(and the different ways their meanings/functionality are signaled) rather than on different types of noun class.
+
+## Notes on Suzman (1997):
+Looks at how children acquire Bantu noun classification and prefixing system; finds that children do initially 
+start by acquiring a reduced subset of noun classes and prefixes. Looked at the type of errors children tend 
+to make and found that they correctly segment the noun from its prefix (potential comparison for us: can 
+children correctly segment partial reuplication?), but don't always add on the prefix in full or correctly.
 
 # References
 
@@ -68,6 +92,9 @@ of Reduplicated Words in Bengali
 
 4. [Anonymous, Chapter on Bangla Reduplication](https://shodhganga.inflibnet.ac.in/bitstream/10603/155455/8/08_chapter%204.pdf)
 
+5. [Culbertson, J., Jarvinen, H., Haggarty, F., & Smith, K. (2019). Children’s sensitivity to phonological and semantic cues during noun class learning: Evidence for a phonological bias. Language 95(2), 268-293. doi:10.1353/lan.2019.0031.](https://muse.jhu.edu/article/727837)
+
+6. Suzman, S., Acquisition of noun class systems in related Bantu languages
 
 <!-- <style class="fallback">body{visibility:hidden}</style><script>markdeepOptions={tocStyle:'long'};</script> -->
 <!-- Markdeep: -->
