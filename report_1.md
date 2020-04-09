@@ -105,16 +105,16 @@ experiments about child learning of preferences occur can be designed.
 2.  [Bandyopadhyay & Chakraborty, Identification of Reduplication in Bengali Corpus and their
     Semantic Analysis: A Rule-Based Approach](https://www.aclweb.org/anthology/W10-3710.pdf)
 
-3.  Senapati & Garain, A Computational Approach for Corpus Based Analysis
+<!-- 3.  Senapati & Garain, A Computational Approach for Corpus Based Analysis
     of Reduplicated Words in Bengali
 
-4.  [Anonymous, Chapter on Bangla Reduplication](https://shodhganga.inflibnet.ac.in/bitstream/10603/155455/8/08_chapter%204.pdf)
+4.  [Anonymous, Chapter on Bangla Reduplication](https://shodhganga.inflibnet.ac.in/bitstream/10603/155455/8/08_chapter%204.pdf) -->
 
-5.  [Culbertson, J., Jarvinen, H., Haggarty, F., & Smith, K. (2019). Children’s sensitivity to phonological and semantic cues during noun class learning: Evidence for a phonological bias. Language 95(2), 268-293. doi:10.1353/lan.2019.0031.](https://muse.jhu.edu/article/727837)
+3.  [Culbertson, J., Jarvinen, H., Haggarty, F., & Smith, K. (2019). Children’s sensitivity to phonological and semantic cues during noun class learning: Evidence for a phonological bias. Language 95(2), 268-293. doi:10.1353/lan.2019.0031.](https://muse.jhu.edu/article/727837)
 
-6.  Suzman, S., Acquisition of noun class systems in related Bantu languages
+<!-- 6.  Suzman, S., Acquisition of noun class systems in related Bantu languages -->
 
-7.  Bar-Sever G., et al, Little lexical learners: Quantitatively assessing the
+4.  Bar-Sever G., et al, Little lexical learners: Quantitatively assessing the
     development of adjective ordering preferences
 
 <!-- <style class="fallback">body{visibility:hidden}</style><script>markdeepOptions={tocStyle:'long'};</script> -->
