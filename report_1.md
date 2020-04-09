@@ -1,7 +1,6 @@
    <!-- <meta charset="utf-8" emacsmode="-*- markdown -*-"> <link rel="stylesheet" href="https://casual-effects.com/markdeep/latest/journal.css?"> -->
 
-                        **Project Report**
-                           Version 1.1
+<div align="center">**Project Report 1**</div>
 
 # Topic
 
