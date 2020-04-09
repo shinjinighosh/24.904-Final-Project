@@ -45,7 +45,7 @@ different functionalities of Bengali reduplication. Moreover, a rule-based syste
 average, over 90% precision, recall and f-score values, implying that it might also be
 possible for young children to apply similar segmentation using similar rules.
 
-## Summary of Senapati and Garain (2015):
+<!-- ## Summary of Senapati and Garain (2015):
 
 The authors have studied
 the frequencies in which reduplicated words appear in Bengali. They
@@ -57,7 +57,7 @@ technique to enhance the accuracy of identifying such words in the corpus.
 
 A chapter on Bangla reduplication has provided 11 classifications of Bangla reduplications, based
 on various aspects. It would be interesting to look at how children truly classify it while
- learning.
+ learning. -->
 
 ## Summary of Culbertson et al. (2019):
 
@@ -80,13 +80,13 @@ It would be interesting to do a similar investigation, but focused on the differ
  reduplication (and the different ways their meanings/functionality are signaled) rather than on
   different types of noun class.
 
-## Notes on Suzman (1997):
+<!-- ## Notes on Suzman (1997):
 
 Looks at how children acquire Bantu noun classification and prefixing system; finds that children
  do initially start by acquiring a reduced subset of noun classes and prefixes. Looked at the type
   of errors children tend to make and found that they correctly segment the noun from its prefix
    (potential comparison for us: can children correctly segment partial reuplication?), but don't
-    always add on the prefix in full or correctly.
+    always add on the prefix in full or correctly. -->
 
 ## Notes on Bar-Sever, Lee, Scontras, Pearl (2018)
 
