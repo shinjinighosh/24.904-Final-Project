@@ -1,6 +1,8 @@
    <!-- <meta charset="utf-8" emacsmode="-*- markdown -*-"> <link rel="stylesheet" href="https://casual-effects.com/markdeep/latest/journal.css?"> -->
 
-<div align="center">**Project Report 1**</div>
+<div align="center"><strong>
+<h1>Project Report 1</h1>
+</strong></div>
 
 # Topic
 
