@@ -1,0 +1,38 @@
+bangla reduplication types:
+
+- adjectives to imply plural/many; "there were many small small flowers"
+- emphasis; "can you speak slowly slowly?", "walk faster faster"?
+	- these also have a time component but other adverbs don't
+- "dog dog fight" -> fighting among the dogs
+- continuous meaning in subordinate clause verbs; "while she was going going" 
+- morphological for onomatopoeia / describing sensations ("stinging pain", 
+describing amount of rain - moderate, trickle, cats & dogs)
+	- these words aren't usually used alone, but when they are they mean the same thing 
+  ("that place throbs. throb throb pain" "there was a tok sound. tok tok sound")
+- reduplication with first consonant of second word changed to mean etcetera (other languages 
+do this too, but with different first consonants)
+	- only done with a specific category of common consonants - almost always gets replaced with t, 
+  but what the word is changes whether it's the retroflex vs alveolar t
+- indicating action from a perspective "they sat together together", "they beat beat each other" 
+(because there are two people?)
+	- in this situation, the verb conjugation stays, but the last vowel of the 1st redup. changes to a
+  and the last vowel of the 2nd changes to i (note: opposite of the pattern in English! ping-pong,
+  tick-tock, flim-flam etc.)
+	- children might sometimes reduplicate in a correct situation, but not change the vowel correctly
+- there are more options, but other categories end up collapsing into these eventually
+
+Experimental idea based on this:
+- when do kids realize that 'quickly quickly' might sometimes just mean "come quickly" but sometimes would 
+signal a tense change --> which would they think it meant? could provide different situations: one where either 
+could be true, and one where one thing is privileged, and see if that changes their interpretations
+- this could be an interesting look at children's first assumptions about what words in those positions are 
+"supposed" to mean
+
+More concretely:
+- show one picture of many small flowers and one picture with a few tiny flowers, ask "can you show me 
+the small small flowers"? 
+- have a puppet describe a picture with either many small flowers or a few tiny ones (and something 
+else for scale I guess?) and say "oh there are small small flowers!" and see if the children think the 
+puppet is right or wrong
+- these two together would let us see 1. what children think when making their own judgements 
+2. if that holds when they are presented with evidence that one judgement or the other is specifically correct
