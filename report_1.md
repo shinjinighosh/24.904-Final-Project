@@ -8,12 +8,17 @@
 
 There is existing work on reduplication rules, and classification of reduplication functionality, in Bangla. Separately, there is a small amount of work on child learning of reduplication, although mostly focused on reduplication in English (where it is not a very productive paradigm). There is also work on child learning of other "paradigms" with different functionality and classification. We propose to bring together these areas of study and examine child learning/classification abilities of reduplication in Bangla.
 
-Our experiment will focus on:
+# Experimental Overview
+Our experiment will focus on types of reduplication where the same sentence can have different meanings in more than one context. We want to see if children learn one of the possible meanings earlier than the other, or if they learn both at the same time. In addition to providing direct information about the trajectory of child acquisition of reduplication in Bangla, this information could also provide insight as to children's underlying expectations of what words in those syntactic positions are "supposed" to mean.
 
--   how children's classification, learning and usage of reduplication slowly becomes more adult-like with age
--   subideas: which areas of classification children are able to master first; whether mastery comes in sections (and if so how is it divided) or all at once
+Types of reduplication that could be used for this experiment include:
+- Adjectival: "the small small flowers" could function as a plural, meaning many small flowers, or an intensifier, meaning a few tiny flowers
+-Adverbal: "quickly quickly" - ?
+/i wrote these two up from our notes but i don't remember/understand what the quickly example meant anymore, and it would also be great if you could add one or two more examples if you can think of any!/
 
-<!-- /can do something about is reduplication its own thing, or is it specific to aspects, broken down by functionality and parts of speech? ft. Bangla/ -->
+We plan to run two sets of experimental trials. In one, children will be presented with two pictures, each of which is a correct depiction of one meaning of a sentence containing reduplication. The experimenter will ask, "can you show me the picture with...?" or "can you show me the picture where...?" and have the children point to a picture. In the second, /this part i am not as sure about? it seems like a more complicated design and harder to get right/ the experimenter will present both photos as before, but they will tell a story before ending with the same question as in phase one. The story will bias the interpretation of the reduplication towards one of the two pictures.
+
+Seeing which meaning children pick when presented with equally good options will tell us if they favour one meaning (>chance picking of it) or if they favour neither (equal/chance picking). Then, putting them in a context where to an adult, one meaning is clearly more correct than the other, will give more nuanced information. If they originally favoured one meaning, we will learn whether they also know the other but disprefer it when given a choice (>chance picking of the correct one as opposed to >chance picking of the one they favour); if they originally favoured neither, we will learn if they know both meanings (>chance picking of the correct one) or neither (continued equal/chance picking).
 
 # Background Research
 
@@ -105,16 +110,16 @@ experiments about child learning of preferences occur can be designed.
 2.  [Bandyopadhyay & Chakraborty, Identification of Reduplication in Bengali Corpus and their
     Semantic Analysis: A Rule-Based Approach](https://www.aclweb.org/anthology/W10-3710.pdf)
 
-<!-- 3.  Senapati & Garain, A Computational Approach for Corpus Based Analysis
+3.  Senapati & Garain, A Computational Approach for Corpus Based Analysis
     of Reduplicated Words in Bengali
 
 4.  [Anonymous, Chapter on Bangla Reduplication](https://shodhganga.inflibnet.ac.in/bitstream/10603/155455/8/08_chapter%204.pdf) -->
 
-3.  [Culbertson, J., Jarvinen, H., Haggarty, F., & Smith, K. (2019). Children’s sensitivity to phonological and semantic cues during noun class learning: Evidence for a phonological bias. Language 95(2), 268-293. doi:10.1353/lan.2019.0031.](https://muse.jhu.edu/article/727837)
+5.  [Culbertson, J., Jarvinen, H., Haggarty, F., & Smith, K. (2019). Children’s sensitivity to phonological and semantic cues during noun class learning: Evidence for a phonological bias. Language 95(2), 268-293. doi:10.1353/lan.2019.0031.](https://muse.jhu.edu/article/727837)
 
-<!-- 6.  Suzman, S., Acquisition of noun class systems in related Bantu languages -->
+6.  Suzman, S., Acquisition of noun class systems in related Bantu languages
 
-4.  Bar-Sever G., et al, Little lexical learners: Quantitatively assessing the
+7.  Bar-Sever G., et al, Little lexical learners: Quantitatively assessing the
     development of adjective ordering preferences
 
 <!-- <style class="fallback">body{visibility:hidden}</style><script>markdeepOptions={tocStyle:'long'};</script> -->
