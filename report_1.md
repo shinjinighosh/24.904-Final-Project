@@ -15,9 +15,10 @@ Our experiment will focus on types of reduplication where the same sentence can 
 Types of reduplication that could be used for this experiment include:
 
 -   Adjectival: `choto choto ful` = "small small flowers" could ideally function as a plural, meaning many small flowers, or an intensifier, meaning a few tiny flowers; `sundor sundor mohila` = "beautiful beautiful women" functions to mean many beautiful women rather than one very beautiful woman.
+-   Nominal: `kukure kukure` = "dog dog" means "among the dogs"; unlike the adjectival meaning, interpreting it as plural would be incorrect.
 -   Verbal: `jete jete` = "going going" means "while going" and functions as a tense mondifier.
 -   Adverbal: `aste aste` = "slowly slowly" indicates intensity.
--   Nominal: `kukure kukure` = "dog dog" means "among the dogs".
+(We plan to continue to look into areas of reduplication in Bangla that have strong double meanings.)
 
 We plan to run two sets of experimental trials. In one, children will be presented with two pictures, each of which is a correct depiction of one meaning of a sentence containing reduplication. The experimenter will ask, "can you show me the picture with...?" or "can you show me the picture where...?" and have the children point to a picture. In the second experiment, the experimenter will present both photos as before, but they will tell a story first and then end with the same question as in phase one. The story will bias the interpretation of the reduplication towards one of the two pictures.
 
