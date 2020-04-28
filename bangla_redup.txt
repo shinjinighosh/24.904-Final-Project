@@ -8,7 +8,7 @@ bangla reduplication types:
 - morphological for onomatopoeia / describing sensations ("stinging pain", 
 describing amount of rain - moderate, trickle, cats & dogs)
 	- these words aren't usually used alone, but when they are they mean the same thing 
-  ("that place throbs. throb throb pain" "there was a tok sound. tok tok sound")
+  ("that place throbs. throb throb pain" "there was a thok sound. thok thok sound")
 - reduplication with first consonant of second word changed to mean etcetera (other languages 
 do this too, but with different first consonants)
 	- only done with a specific category of common consonants - almost always gets replaced with t, 
